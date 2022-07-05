@@ -1,0 +1,15 @@
+/home/mrwest/Área de Trabalho/Estudos/Cs/MbParaGb/MbParaGb/bin/Debug/net6.0/MbParaGb
+/home/mrwest/Área de Trabalho/Estudos/Cs/MbParaGb/MbParaGb/bin/Debug/net6.0/MbParaGb.deps.json
+/home/mrwest/Área de Trabalho/Estudos/Cs/MbParaGb/MbParaGb/bin/Debug/net6.0/MbParaGb.runtimeconfig.json
+/home/mrwest/Área de Trabalho/Estudos/Cs/MbParaGb/MbParaGb/bin/Debug/net6.0/MbParaGb.dll
+/home/mrwest/Área de Trabalho/Estudos/Cs/MbParaGb/MbParaGb/bin/Debug/net6.0/MbParaGb.pdb
+/home/mrwest/Área de Trabalho/Estudos/Cs/MbParaGb/MbParaGb/obj/Debug/net6.0/MbParaGb.csproj.AssemblyReference.cache
+/home/mrwest/Área de Trabalho/Estudos/Cs/MbParaGb/MbParaGb/obj/Debug/net6.0/MbParaGb.GeneratedMSBuildEditorConfig.editorconfig
+/home/mrwest/Área de Trabalho/Estudos/Cs/MbParaGb/MbParaGb/obj/Debug/net6.0/MbParaGb.AssemblyInfoInputs.cache
+/home/mrwest/Área de Trabalho/Estudos/Cs/MbParaGb/MbParaGb/obj/Debug/net6.0/MbParaGb.AssemblyInfo.cs
+/home/mrwest/Área de Trabalho/Estudos/Cs/MbParaGb/MbParaGb/obj/Debug/net6.0/MbParaGb.csproj.CoreCompileInputs.cache
+/home/mrwest/Área de Trabalho/Estudos/Cs/MbParaGb/MbParaGb/obj/Debug/net6.0/MbParaGb.dll
+/home/mrwest/Área de Trabalho/Estudos/Cs/MbParaGb/MbParaGb/obj/Debug/net6.0/refint/MbParaGb.dll
+/home/mrwest/Área de Trabalho/Estudos/Cs/MbParaGb/MbParaGb/obj/Debug/net6.0/MbParaGb.pdb
+/home/mrwest/Área de Trabalho/Estudos/Cs/MbParaGb/MbParaGb/obj/Debug/net6.0/MbParaGb.genruntimeconfig.cache
+/home/mrwest/Área de Trabalho/Estudos/Cs/MbParaGb/MbParaGb/obj/Debug/net6.0/ref/MbParaGb.dll
